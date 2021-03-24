@@ -44,9 +44,10 @@ nav ul {
 }
 
 .code {
-    padding: 40px 80px;
+    padding: 10px 5px;
     background-color: #E8E8E8;
     line-height: 22px;
+    white-space: pre;
 }
 
 a {    
